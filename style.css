@@ -1,3 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+#bandeira {
+    width: 25;
+    height: 25%;
+}
+
 body {
     background: #CCCCCC;
     text-align: center;
