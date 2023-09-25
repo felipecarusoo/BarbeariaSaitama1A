@@ -29,7 +29,7 @@ background: black;
 color:white;
 }
 
-.titulos {
+.titulo {
     text-align: center;
     font-size: 30px;
 }
@@ -56,8 +56,6 @@ ul {
     font-size: 20px;
     width: 20%;
     margin-right: 15%;
-
-
 }
 
 .imagem-beneficios {
