@@ -1,18 +1,67 @@
+
+
 h1 {
     text-align: center;
 }
 
 #bandeira {
     width: 100%;
-    height: 25%;
 }
 
 body {
     background: #CCCCCC;
-    text-align: center;
 }
 
 em strong {
     font-size: 20px;
+    color:red;
     
+}
+
+.cabecalho{
+    padding-left:  20px;
+}
+
+.conteudo-principal {
+font-size: 22px;
+background: black;
+color:white;
+}
+
+.titulos {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+p {
+    text-align: center;
+}
+
+.texto-salao {
+    background-color: #f193d4;
+    font-size: 20px;
+    padding: 30px;
+}
+
+em strong {
+    color: rgb(255, 3, 112);
+}
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    width: 20%;
+    margin-right: 15%;
+
+
+}
+
+.imagem-beneficios {
+    width: 50%;
+    display: inline-block;
+
+
 }
