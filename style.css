@@ -2,6 +2,7 @@
 
 h1 {
     text-align: center;
+    font-size: 20px;
 }
 
 #bandeira {
@@ -62,6 +63,8 @@ ul {
 .imagem-beneficios {
     width: 50%;
     display: inline-block;
+}
 
-
+footer {
+    text-align: center;
 }
